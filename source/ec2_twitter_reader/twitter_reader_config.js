@@ -8,6 +8,6 @@ var twitter_config = module.exports = {
         access_token_secret: keys.access_token_secret
       },
     topics: ['Zelenskyy', 'Putin', 'Ukraine', 'Russia', 'Refugee', 'Ukraine Russia War', 'NATO'],
-    languages: ['en', 'es', 'de', 'fr', 'ar', 'pt'],
+    languages: ['en', 'es', 'de', 'fr', 'ar', 'uk', 'ru'],
     kinesis_delivery: 'Social-Media-Analytics-Tool-Stack-IngestionFirehose-uALWXopuGvMP'
 }
